@@ -1,7 +1,7 @@
 # Smart Pets
 
 <p align="center">
-  <img src="img/logo.png" alt="Smart Pets Logo" width="300">
+  <img src="images/logo.png" alt="Smart Pets Logo" width="300">
 </p>
 
 ## Tecnologías
